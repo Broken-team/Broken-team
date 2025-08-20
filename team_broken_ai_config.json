@@ -1,0 +1,16 @@
+{
+  "api_id": "20953530",
+  "api_hash": "890c8993453f27840475fdf59a88547c",
+  "gemini_keys": [
+    "AIzaSyDk_rLlwIb8p3U4Quzd6PqC7DS-rruwRv8"
+  ],
+  "deepseek_keys": [
+    "sk-d3e41005973f44ee9c9c7802fd8313ca"
+  ],
+  "bot_token": "7703961919:AAFkivjwwrE5UyrMjQjUY5XPgMPK_PYQUaw",
+  "admin_ids": [
+    6317883928
+  ],
+  "preferred_api": "gemini",
+  "enable_image_caption": true
+}
